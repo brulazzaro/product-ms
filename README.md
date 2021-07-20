@@ -23,4 +23,10 @@ Implementação de RestAPI para um cadastro de produtos.
   - Obs: 
         - Pasta do Git seria o local do clone.
         - "NomeDoJarGerado" pode ser substituido por "product-ms-0.0.1-SNAPSHOT".
-  
+
+
+# Visualizar 
+
+  - É tambem possivel utilizar a plataforma do Heroku para testes seguindo o link:
+    - https://product-ms-test.herokuapp.com/products
+
