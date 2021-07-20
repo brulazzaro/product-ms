@@ -14,12 +14,13 @@ Implementação de RestAPI para um cadastro de produtos.
   
   - Como instalar:
   
-  Ao fazer clone deste repositorio usar o Maven para fazer Build da aplicação.
-    "mvn clean package"
+  - Ao fazer clone deste repositorio usar o Maven para fazer Build da aplicação.
+    - "mvn clean package"
   
-  Após o build da aplicação, usar o comando na pasta {PastaDoGit}/target
-    "java -jar {NomeDoJarGerado}.jar"
+  - Após o build da aplicação, usar o comando na pasta {PastaDoGit}/target
+    - "java -jar {NomeDoJarGerado}.jar"
   
-  Obs: Pasta do Git seria o local do clone.
-       "NomeDoJarGerado" pode ser substituido por "product-ms-0.0.1-SNAPSHOT".
+  - Obs: 
+        - Pasta do Git seria o local do clone.
+        - "NomeDoJarGerado" pode ser substituido por "product-ms-0.0.1-SNAPSHOT".
   
